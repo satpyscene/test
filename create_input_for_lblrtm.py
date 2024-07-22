@@ -1,3 +1,4 @@
+#版本2
 #!/usr/bin/python3
 # Original: 
 # $Id: rundecker.pro,v 1.37 2012/08/15 11:43:52 dturner Exp $
